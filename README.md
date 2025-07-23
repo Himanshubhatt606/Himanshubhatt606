@@ -7,5 +7,5 @@
 - 🌐 Learning DSA & APIs
 
 📫 Reach me:  
-- Email: himanshu@gmail.com  
+- Email: himanshubhatt449@gmail.com  
 - LinkedIn: [linkedin.com/in/himanshucodes](https://linkedin.com/in/himanshucodes)
